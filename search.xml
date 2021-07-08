@@ -2,6 +2,25 @@
 <search> 
   
   
+    
+    <entry>
+      <title>如何搭建博客</title>
+      <link href="/2021/07/08/ru-he-da-jian-bo-ke/"/>
+      <url>/2021/07/08/ru-he-da-jian-bo-ke/</url>
+      
+        <content type="html"><![CDATA[<p>搭建博客的流程：</p><p>​    1.下载node.js</p><p>​    2.下载git</p><p>​    3.下载hexo</p><p>​    4.搭建github仓库</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
